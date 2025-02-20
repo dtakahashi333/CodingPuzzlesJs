@@ -1,0 +1,40 @@
+# Node.js dependencies
+/node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+jspm_packages/
+
+# Build output
+/dist/
+/build/
+/public/
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# dotenv environment variable file
+.env
+
+# npm package-lock file (optional, if you want to ignore it)
+# package-lock.json
+
+# Yarn lock file (optional, if you want to ignore it)
+# yarn.lock
+
+# Test data
+data/

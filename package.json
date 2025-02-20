@@ -1,0 +1,15 @@
+{
+  "name": "jscodingpuzzlesjs",
+  "version": "1.0.0",
+  "main": "test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
