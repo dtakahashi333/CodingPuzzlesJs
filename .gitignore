@@ -35,6 +35,3 @@ Thumbs.db
 
 # Yarn lock file (optional, if you want to ignore it)
 # yarn.lock
-
-# Test data
-data/
