@@ -11,7 +11,6 @@ test('next bigger of "bb" is "no answer"', () => {
 });
 
 test('next bigger of "hefg" is "hegf"', () => {
-  ß;
   expect(biggerIsGreater("hefg")).toBe("hegf");
 });
 
