@@ -1,3 +1,5 @@
+// Beautiful Triplets
+// https://www.hackerrank.com/challenges/beautiful-triplets/problem?isFullScreen=false
 function beautifulTriplets(d, arr) {
   const n = arr.length;
   let count = 0;
@@ -17,6 +19,17 @@ function beautifulTriplets(d, arr) {
     }
   }
   return count;
+}
+
+function beautifulTripletsOptimal(d, arr) {
+  // O(n)
+  const n = arr.length;
+  const hashTable = {};
+  for (let i = 0; i < n; ++i) {
+    if (hashTable[a[i]] !== undefined) {
+
+    }
+  }
 }
 
 module.exports = {

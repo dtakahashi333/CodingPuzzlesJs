@@ -1,3 +1,5 @@
+// Modified Kaprekar Numbers
+// https://www.hackerrank.com/challenges/kaprekar-numbers/problem?isFullScreen=false
 function kaprekarNumbers(p, q) {
   const kaprekars = [];
   for (let n = p; n <= q; ++n) {

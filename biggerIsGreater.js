@@ -1,3 +1,5 @@
+// Bigger is Greater
+// https://www.hackerrank.com/challenges/bigger-is-greater/problem?isFullScreen=false
 function findNextBigger(arr, s, e, k) {
   const mid = Math.floor((s + e) / 2);
 
